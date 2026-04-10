@@ -29,7 +29,7 @@
   <a href="https://twitter.com/sdanishkazmi" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/syed-danish-kazmi-930a46174" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/syeddanishkazmi" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/10951395" target="_blank" rel="noreferrer">
