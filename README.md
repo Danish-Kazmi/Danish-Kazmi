@@ -1,6 +1,5 @@
 ![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:111827&height=200&section=header&text=Hi,%20I%27m%20Danish%20Kazmi&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
-<h1 align="center">Hi, I'm Danish Kazmi</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Pakistan</h3>
 
 <img align="right" alt="Danish Kazmi" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
