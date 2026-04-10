@@ -1,18 +1,12 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQEZ2Cd1DmafpQ/article-cover_image-shrink_720_1280/0/1699194763604?e=1720656000&v=beta&t=K4gr7C5qxSuAWomvJ1NuyRkE4Yr4vtjjjoQIN_QoAE4)](https://linkedin.com/in/syed-danish-kazmi-930a46174)
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:111827&height=200&section=header&text=Hi,%20I%27m%20Danish%20Kazmi&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 <h1 align="center">Hi, I'm Danish Kazmi</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Pakistan</h3>
 
-<img align="right" alt="Danish Kazmi" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Danish Kazmi" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=danish-kazmi&label=Profile%20Views&color=0e75b6&style=flat" alt="danish-kazmi" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danish-kazmi" alt="danish-kazmi" />
-  </a>
 </p>
 
 <p align="left">
