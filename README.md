@@ -82,11 +82,11 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danish-kazmi&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danish-kazmi&theme=github_dark" alt="Top languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danish-kazmi&show_icons=true&locale=en" alt="GitHub stats" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danish-kazmi&theme=github_dark" alt="GitHub stats" />
 </p>
 
 <p>
