@@ -18,7 +18,7 @@
 - I am currently learning **React** and **NestJS**
 - Ask me about **PHP, Laravel, Vue.js, and JavaScript**
 - Reach me at **s.danish.kazmi555@gmail.com**
-- Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/syed-danish-kazmi-930a46174)
+- Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/syeddanishkazmi)
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
