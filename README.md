@@ -90,5 +90,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danish-kazmi" alt="GitHub streak stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danish-kazmi&theme=aura&" alt="GitHub streak stats" />
 </p>
