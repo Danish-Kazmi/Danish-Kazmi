@@ -1,78 +1,84 @@
-# Syed Danish Kazmi
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:111827&height=200&section=header&text=Hi,%20I%27m%20Danish%20Kazmi&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
-Full-Stack Laravel Developer based in Lahore, Pakistan with 5+ years of experience building CRM platforms, internal tools, payment flows, and responsive web applications.
+<h3 align="center">A passionate Full-Stack Web Developer from Pakistan</h3>
 
-[LinkedIn](https://www.linkedin.com/in/syed-danish-kazmi-930a46174/) | [Email](mailto:s.danish.kazmi555@gmail.com) | [CV](./Danish%20Kazmi.pdf)
+<img align="right" alt="Danish Kazmi" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-![Profile Views](https://komarev.com/ghpvc/?username=danish-kazmi&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=danish-kazmi&label=Profile%20Views&color=0e75b6&style=flat" alt="danish-kazmi" />
+</p>
 
-## About Me
+<p align="left">
+  <a href="https://twitter.com/sdanishkazmi" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/sdanishkazmi?logo=twitter&style=for-the-badge" alt="sdanishkazmi" />
+  </a>
+</p>
 
-- Tech Lead / Full-Stack Engineer with strong hands-on experience in Laravel, Vue.js, JavaScript, PHP, and modern frontend workflows.
-- Focused on building reliable business systems with complex workflows like estimation, scheduling, checkout, payments, dashboards, and admin operations.
-- Comfortable owning projects end-to-end, from UI implementation and backend architecture to deployment on Linux and Nginx.
-- Experienced collaborating with stakeholders, cross-functional teams, and distributed developers to ship production-ready software quickly.
+- I am currently working on [Marine Broker](https://marinebrokers.m-oil.io)
+- I am currently learning **React** and **NestJS**
+- Ask me about **PHP, Laravel, Vue.js, and JavaScript**
+- Reach me at **s.danish.kazmi555@gmail.com**
+- Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/syeddanishkazmi)
 
-## Current Work
+### Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-I am currently working at **CherryByte Technologies** as a **PHP Tech Lead / Full-Stack Software Engineer**, where I help build and maintain service platforms, CRM systems, and scalable frontend experiences.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/sdanishkazmi" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/syeddanishkazmi" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/10951395" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@s.danish.kazmi555" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/syeddanishkazmi5160" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/danish_kazmi" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
 
-## Featured Projects
-
-### WePaintWell
-A large customer and admin CRM platform for service operations.
-
-- Built the complete customer journey for service selection, estimation, scheduling, checkout, and payments.
-- Developed the admin CRM for orders, customers, pricing rules, service configuration, scheduling, and payment lifecycle management.
-- Implemented reusable UI components and complex business rules across both frontend and backend.
-
-### Yes4Youth Program
-A dynamic and responsive platform experience built with modern frontend tooling.
-
-- Developed secure, responsive widgets and components for web and mobile use.
-- Worked with a distributed team across multiple software houses to meet tight delivery timelines.
-
-### Marine Broker
-A CRM platform for managing marine oil and lubricant trades.
-
-- Translated Figma designs into responsive, pixel-perfect interfaces.
-- Built backend functionality in Laravel and supported deployment on Nginx.
-
-### VenX
-A business platform for estimates, invoices, and payment workflows.
-
-- Built responsive pages and multiple authentication flows.
-- Developed APIs and integrated services like Stripe and Mailgun.
-
-## Previous Experience
-
-- **Cybus Solutions Ltd** - Full-Stack Web Developer
-- **Trodosoft** - Laravel Developer
-- **Social Tech Solutions** - PHP Developer
-
-Projects across these roles included AssureOutReach, Abel Constructions, MCX, HyperSalon, Afripay, KibanX, and ProNspect.
-
-## Tech Stack
-
-**Backend:** Laravel, PHP, REST APIs, MySQL, PostgreSQL, SQL Server  
-**Frontend:** Vue.js, JavaScript, Next.js, React, HTML, CSS, Tailwind CSS, Bootstrap  
-**Infrastructure:** Linux, Nginx, AWS, Git  
-**Integrations:** Stripe, Mailgun, Firebase Dynamic Links, S3
-
-## What I Like Building
-
-- CRM and admin dashboards
-- Multi-step estimators and checkout flows
-- Payment and order lifecycle systems
-- Responsive business applications
-- API-driven platforms and internal tools
-
-## Education
-
-**Virtual University of Pakistan**  
-Computer Software Engineering
-
-## GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" /></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" /></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40" /></a>
+  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" /></a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" /></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt" width="40" height="40" /></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" /></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" /></a>
+  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"><img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40" /></a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" /></a>
+</p>
 
 <p>
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danish-kazmi&theme=github_dark" alt="Top languages" />
@@ -83,5 +89,5 @@ Computer Software Engineering
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danish-kazmi&theme=github-dark-blue" alt="GitHub streak stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danish-kazmi&theme=aura" alt="GitHub streak stats" />
 </p>
