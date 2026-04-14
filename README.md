@@ -14,7 +14,7 @@
   </a>
 </p>
 
-- I am currently working on [Marine Broker](https://marinebrokers.m-oil.io)
+- I'm currently working as a **Freelancer**
 - I am currently learning **React** and **NestJS**
 - Ask me about **PHP, Laravel, Vue.js, and JavaScript**
 - Reach me at **s.danish.kazmi555@gmail.com**
