@@ -15,8 +15,8 @@
 </p>
 
 - I'm currently working as a **Freelancer**
-- I am currently learning **React** and **NestJS**
-- Ask me about **PHP, Laravel, Vue.js, and JavaScript**
+- I'm a well-rounded **Full-Stack Developer** with hands-on experience across frontend and backend development
+- I work with **PHP, Laravel, Vue.js, JavaScript, React, and NestJS**
 - Reach me at **s.danish.kazmi555@gmail.com**
 - Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/syeddanishkazmi)
 
