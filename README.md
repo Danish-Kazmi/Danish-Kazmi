@@ -38,7 +38,7 @@
   <a href="https://medium.com/@s.danish.kazmi555" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/syeddanishkazmi5160" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/@syed_danish_kazmi" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="https://discord.gg/danish_kazmi" target="_blank" rel="noreferrer">
