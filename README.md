@@ -2,7 +2,9 @@
 
 <h3 align="center">A passionate Full-Stack Web Developer from Pakistan</h3>
 
-<img align="right" alt="Danish Kazmi" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<p align="center">
+  <img alt="Danish Kazmi" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=danish-kazmi&label=Profile%20Views&color=0e75b6&style=flat" alt="danish-kazmi" />
@@ -23,8 +25,6 @@
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<br clear="both" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
