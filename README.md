@@ -47,7 +47,7 @@
 <h3 align="left">🧰 Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,nuxtjs,js,ts,react,nestjs,nodejs,html,css,tailwind,bootstrap,sass,mysql,postgres,mssql,sqlite,firebase,aws,nginx,linux,bash,git,github,postman,webpack,cpp,arduino" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,vuetify,nuxtjs,js,ts,react,nestjs,nodejs,html,css,tailwind,bootstrap,sass,mysql,postgres,mssql,sqlite,firebase,aws,nginx,linux,bash,git,github,postman,webpack,cpp,arduino" alt="Languages and Tools" />
 </p>
 
 <p>
