@@ -50,9 +50,9 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,vue,vuetify,nuxtjs,js,ts,react,nestjs,nodejs,html,css,tailwind,bootstrap,sass,mysql,postgres,sqlite,firebase,aws,nginx,linux,bash,git,github,postman,webpack,cpp,arduino" alt="Languages and Tools" />
 </p>
 
-<h6>
+<p>
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danish-kazmi&theme=github_dark" alt="Top languages" />
-</h6>
+</p>
 
 <p>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danish-kazmi&theme=github_dark" alt="GitHub stats" />
